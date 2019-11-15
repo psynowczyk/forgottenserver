@@ -17,6 +17,7 @@
 [Rr]elease/
 x64/
 build/
+cmake-build-debug/
 [Bb]in/
 [Oo]bj/
 
@@ -172,7 +173,10 @@ pip-log.txt
 .*.swp
 .*.swo
 
+.idea/
+
 #############
 ## TFS / OT
 #############
 config.lua
+tfs
